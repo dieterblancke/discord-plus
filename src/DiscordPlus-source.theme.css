@@ -1288,10 +1288,6 @@ that have popups, or else the menu breaks when you hover over them */
     padding-top: var(--dplus-spacing-ui);
 }
 
-.homeIcon-r0w4ny {
-    display: none !important;
-}
-
 .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub,
 .wrapper-3kah-n:hover .childWrapper-1j_1ub {
     background-color: transparent;
