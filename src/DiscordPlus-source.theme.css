@@ -11,8 +11,8 @@
  * @updateUrl https://plusinsta.github.io/discord-plus/src/DiscordPlus-source.theme.css
  * @invite 2Jwh2nS
 */
-@import url('https://raw.githubusercontent.com/dieterblancke/discord-plus/master/src/DiscordPlus-plugins.theme.css');
-@import url('https://raw.githubusercontent.com/dieterblancke/discord-plus/master/src/DiscordPlus-extras.theme.css');
+@import url(https://dieterblancke.github.io/discord-plus/src/DiscordPlus-plugins.theme.css);
+@import url(https://dieterblancke.github.io/discord-plus/src/DiscordPlus-extras.theme.css);
 @import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400;700&family=Black+Han+Sans&family=Commissioner:wght@400;700&family=Gothic+A1:wght@400;700&family=Kosugi&family=Lalezar&family=Mitr:wght@400;700&family=PT+Sans+Caption:wght@400;700&family=Palanquin+Dark:wght@400;700&family=Poppins:wght@400;700&family=Raleway:wght@400;700&family=Righteous&family=Roboto:wght@400;700&family=RocknRoll+One&family=Russo+One&display=swap');
 
 .theme-dark {
